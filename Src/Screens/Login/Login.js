@@ -172,7 +172,7 @@ const Login = ({navigation}) => {
       )}
 
       <Text style={{alignSelf: 'flex-end', marginTop: hp(1)}}>
-        Recoovery Passeword
+        Recovery Passeword
       </Text>
 
       <ButtonBottom

@@ -2,8 +2,8 @@ import 'react-native-gesture-handler';
 import React, {useEffect, useRef, useState} from 'react';
 import {NavigationContainer} from '@react-navigation/native';
 import {createStackNavigator} from '@react-navigation/stack';
-import Login from './Src/Screens/Login/Login';
-import Home from './Src/Screens/Home/Home';
+import Login from './src/Screens/Login/Login';
+import Home from './src/Screens/Home/Home';
 import AsyncStorage from '@react-native-async-storage/async-storage';
 const Stack = createStackNavigator();
 const App = () => {
